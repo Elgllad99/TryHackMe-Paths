@@ -1,4 +1,6 @@
-# The beginner path aims to give a broad introduction to the different areas in Computer Security. This path will be looking at the following areas:
+# introduction
+
+The beginner path aims to give a broad introduction to the different areas in Computer Security. This path will be looking at the following areas:
 
     Basic Linux - Get familiar with the linux command line.
     Web Application Security - Learn web application security concepts through the OWASP Top 10
