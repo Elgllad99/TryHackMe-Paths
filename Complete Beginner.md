@@ -14,5 +14,5 @@ Once you complete the beginner path, you should have learnt the fundamental know
 # Career
 
 Use this path to work towards a career in cyber
- Penetration Tester
- Security Analyst
+ [Penetration Tester
+ & Security Analyst]
