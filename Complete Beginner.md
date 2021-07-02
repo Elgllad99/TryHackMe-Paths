@@ -9,3 +9,10 @@ The beginner path aims to give a broad introduction to the different areas in Co
     Privilege Escalation
 
 Once you complete the beginner path, you should have learnt the fundamental knowledge for each specific area, and use these core concepts to build your understanding of more complex topics within the area.
+
+
+# Career
+
+Use this path to work towards a career in cyber
+Penetration Tester
+Security Analyst
