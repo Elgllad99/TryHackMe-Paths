@@ -1,2 +1,2 @@
 # TryHackMe-Paths
-For TtrHackMe paths By Elgllad
+For TryHackMe paths By Elgllad
