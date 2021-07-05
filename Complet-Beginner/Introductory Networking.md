@@ -77,4 +77,48 @@
     5. What switch would give you a more verbose output?
         - `-v`
     ## Task 6 - Networking Tools Traceroute1
-  > ds
+    #####  Traceroute can be used to map the path your request takes as it heads to the target machine, The basic syntax for traceroute on Linux is this:` traceroute <destination>`
+    
+    1. Use traceroute on tryhackme.com ,Can you see the path your request has taken?
+        - `No Answer Needed`
+    2. What switch would you use to specify an interface when using Traceroute?
+        - `-i`
+    3. What switch would you use if you wanted to use TCP SYN requests when tracing the route?
+        - `-T`
+    4. [Lateral Thinking] Which layer of the TCP/IP model will traceroute run on by default (Windows)?
+        - `internet`
+    ## Task 7 - Networking Tools WHOIS 
+    ##### Whois essentially allows you to query who a domain name is registered to, Just use `whois domain` to get a list of available information about the domain registration:
+    1. Perform a whois search on facebook.com
+        - `No Answer Needed`
+    2. What is the registrant postal code for facebook.com?
+        - `94025`
+    3. When was the facebook.com domain first registered?
+        - `29/03/1997`
+    4. Perform a whois search on microsoft.com
+        - `No Answer Needed`
+    5. Which city is the registrant based in?
+        - `Redmond`
+    6. [OSINT] What is the name of the golf course that is near the registrant address for microsoft.com?
+        - `Bellevue Golf Course`
+    7. What is the registered Tech Email for microsoft.com?
+        - `msnhst@microsoft.com`
+    ## Task 8 - Networking Tools Dig 
+    ##### Dig Tool Like ping and traceroute,Dig allows us to manually query recursive DNS servers of our choice for information about domains, ` dig <domain> @<dns-server-ip>` It is a very useful tool for network troubleshooting.
+    
+    1. What is DNS short for?
+        - `Domain Name System`
+    2. What is the first type of DNS server your computer would query when you search for a domain?
+        - `Recursive`
+    3. What type of DNS server contains records specific to domain extensions (i.e. .com, .co.uk*, etc)*? Use the long version of the name.
+        - `Top-Level Domain`
+    4. Where is the very first place your computer would look to find the IP address of a domain?
+        - `Local Cache`
+    5. [Research] Google runs two public DNS servers. One of them can be queried with the IP 8.8.8.8, what is the IP address of the other one?
+        - `8.8.4.4`
+    6. If a DNS query has a TTL of 24 hours, what number would the dig query show?
+        - `86400`
+    ## Task 9 - Further Reading
+    ##### Networking is one of those things that you just need to learn. 
+    1. Read the final thoughts
+        - `No answer Needed`
